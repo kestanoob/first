@@ -1,8 +1,6 @@
-package com.mycompany.app;
+import static org.junit.Assert.*;
 
-import junit.framework.Test;
-import junit.framework.TestCase;
-import junit.framework.TestSuite;
+import org.junit.Test;
 
 public class RomanTest {
 
